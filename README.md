@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [PcPlanet](https://github.com/Sep3NRD/Sep3_WebApi_Blazor)
 
-- 🌱 I’m currently learning **dotnet and react.js**
+- 🌱 I’m currently learning **.NET and react.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ricardofernandes21](https://github.com/ricardofernandes21)
 
