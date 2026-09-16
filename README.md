@@ -1,26 +1,48 @@
-<h1 align="center">Hi 👋, I'm Ricardo</h1>
-<h3 align="center">A dedicated and ambitious 26-year-old Software Engineering student at Via University College. My passion for technology and software development has driven me to pursue a fulfilling career in this dynamic field.</h3>
+<h1 align="center">Hi 👋, I'm Ricardo Fernandes</h1>
+<h3 align="center">Software Engineer with 18+ months of professional experience in backend development, cloud solutions, and building scalable systems. Data Engineering specialist with a passion for clean architecture and problem solving.</h3>
 
-- 🔭 I’m currently working on [PcPlanet](https://github.com/Sep3NRD/Sep3_WebApi_Blazor)
+---
 
-- 🌱 I’m currently learning **.NET and react.js**
+## 🚀 About Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/ricardofernandes21](https://github.com/ricardofernandes21)
+Recently graduated Bachelor of Engineering in Software Technology from VIA University College, specializing in Data Engineering. I work with backend technologies, cloud platforms, and full-stack solutions for production environments. I enjoy understanding how systems fit together and thrive in collaborative, learning-focused teams.
 
-- 📫 How to reach me **ricardo_fernandes21@hotmail.com**
+## 💼 Current Focus
+
+Building robust backend solutions , designing scalable architectures, and expanding expertise in clean architecture and domain-driven design.
+
+## 🔭 Notable Projects
+
+- **Car Damage Detection System** - ML model for vehicle damage detection using computer vision (Bachelor's Project)
+- **Content Migration Tool** - .NET tool migrating content and media from Sitecore to Umbraco for public clients
+- **AI-Powered Semantic Search** - Application integrating Typesense with semantic search and chatbot capabilities
+- **ESG Report Platform** - Online presentation using Umbraco and Nuxt.js with Azure CI/CD
+
+## 🛠 Tech Stack
+
+**Backend:** C#, .NET Core, ASP.NET Core, Python, Java, Spring Boot, REST APIs
+
+**Databases & Cloud:** SQL, PostgreSQL, Azure (CI/CD, deployments), Docker, Linux
+
+**Frontend:** JavaScript, TypeScript, React, HTML/CSS, Tailwind CSS
+
+**Tools & Practices:** Git, GitHub, Jira, CI/CD pipelines, Agile, Claude Code, GitHub Copilot
+
+**Architecture:** Software architecture design, database systems, microservices patterns
+
+## 📚 Education
+
+**Bachelor of Engineering in Software Technology** | VIA University College (Aug 2022 - Jan 2026)
+
+
+## 📫 Get in Touch
+
+- **Email:** ricardo_fernandes21@hotmail.com
+- **Location:** Horsens, Denmark
+- **Portfolio:** [portfolio.ricardofernandes.site](https://portfolio.ricardofernandes.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ricardo-fernandes-250303275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ricardo-fernandes-250303275" height="30" width="40" /></a>
-<a href="https://fb.com/100044985558286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100044985558286" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ricardo-fernandes-250303275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://github.com/ricardofernandes21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardofernandes21&show_icons=true&locale=en&layout=compact" alt="ricardofernandes21" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardofernandes21&show_icons=true&locale=en" alt="ricardofernandes21" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ricardofernandes21&" alt="ricardofernandes21" /></p>
-
